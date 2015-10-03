@@ -1,0 +1,481 @@
+00000X0455  Telegram, 18 stk.   1950'erne   magasin 1/1/2001                Arkivalier  D26-D27 5, kuv. 3
+00011X0009  Kjole, selskabs-, 3/4 ærmer 1990'erne   magasin 1/1/2009                    N03b    428
+00035X0041  Kjole, langærmet    1970'erne   magasin 1/1/1990                    D27f    116
+00071X0010  Sko, a-b    1970'erne   magasin 1/1/1999                    N03i    90
+00083X0022  Brudekjole med ekstra bluse, a-d    1930'erne   magasin 1/1/1991                    D27f    30
+00083X0024  Foto i ramme (Brud) 1930'erne   magasin 1/1/1990                    D27f    68
+00092X0014  Hår- og knaphulssmykke, a-b 1970'erne   magasin 1/1/1994                    D27f    115
+00092X0015  Skjortebluse, langærmet 1970'erne   magasin 1/1/1989                    D27f    62
+00092X0016  Nederdel    1970'erne   magasin 1/1/1999                    D27f    62
+00092X0019  Underskørt  1970'erne   magasin 1/1/1989                    D27f    62
+00092X0022  BH og trusse, a-b.  1970'erne   magasin 1/1/1988                    D27f    62
+00092X0313  Bryllupstelegrammer,  39 stk.   1950'erne   magasin 1/1/1995                Arkivalier  D26-D27 5, kuv. 1
+00092X0314  Ægteskabsbekendtgørelser, 2 stk.    1950'erne   magasin 1/1/1995                Arkivalier  D26-D27 5, kuv. 1
+00092X0315  Lejlighedssang, 'Irma og Harrys bryllup'    1950'erne   magasin 1/1/1995                Arkivalier  D26-D27 5
+00092X0323  Bryllupskort, 2 stk.    1980'erne   magasin 1/1/1995                Arkivalier  D26-D27 5, kuv. 1
+00102X0019  Lagen, 2 stk    1920'erne   magasin 1/1/1997                    J02d    28
+00113X0001  Dragt, jakke og nederdel, a-b   1940'erne   magasin 1/1/1986                    D27f    66
+00125X0063  Bog, 'Brudenattens A.B.C.'  1930'erne   magasin 1/1/1987                Arkivalier  A-B3    1
+00158X0001  Handskeudvider i æske, a-b  1910'erne   magasin 1/1/1986                    D27f    115
+00158X0004  Pyntenål i æske, a-b    1930'erne   magasin 1/1/1986                    D27f    115
+00180X0080  Rispose     magasin 1/1/1986                    D27f    115
+00180X0159  Brudekjole  1950'erne   magasin 1/1/1999                    D27f    125
+00186X0001  Kjole med jakke 1955 - 1955 magasin 1/1/1986                    N03b    110
+00191X0001  Navneskilt til overtøj  1830'erne   magasin 8/9/2015                    N05c    1
+00203X0046  Brudesko, a-b   1950'erne   magasin 1/1/1993                    D27f    31
+00203X0085  Brudekjole  1950'erne   magasin 1/1/1991                    D27f    31
+00208X0009  Brudesko, a-b   1920'erne   magasin 1/1/1987                    D27f    2
+00213X0091  Brudekjole  1890'erne   magasin 1/1/1987                    D27f    19
+00233X0092  Brudeslør   1960'erne   magasin 20/2/2006                   D27f    124
+00233X0093  Brudebuket  1960'erne   magasin 20/2/2006                   D27f    141
+00259X0141  Kjole, a-c  1950'erne   magasin 1/1/1997                    D27f    130
+00259X0153  Paperskørt  1950'erne   andet   1/1/2001                    N03d    106
+00271X0179  Bryllupsang 1960'erne   magasin 1/1/2000                Arkivalier  D26-D27 5
+00271X0290  Kjole med bolero, a-b   efter 1950  magasin 1/1/1995                    D27f    71
+00275X0270  Vase    1920'erne   magasin 1/1/2000                    J02v    Reol
+00277X0001  Kjole, sølvbryllups-    1969 - 1969 magasin 23/5/2014                   D27f    1
+00278X0008  Kjole   1950'erne   magasin 6/8/2010                    D27f    82
+00313X0174  Kjole, 2-delt, med bælte, taske og urrem, a-e   1970'erne   magasin 1/1/2006                    D27f    130
+00313X0175  Guldkonvolut    2000'erne   magasin 1/1/2006                Arkivalier  D26-D27 5
+00316X0009  Pudebetræk  1920'erne   magasin 1/1/1998                    J02d    30
+00375X0006  Bog: "Ægteskabets problemer"    1940'erne   andet   23/6/2004               Arkivalier  A-B03   1, kuv. 2
+00375X0121  Fad, brunglaseret   1940'erne   magasin 1/1/2002                Dækket  J03b    På reol
+00375X0122  Syltekrukke 1940'erne   magasin 1/1/2002                Dækket  K02f    På reol
+00375X0123  Syltekrukke 1940'erne   magasin 1/1/2002                Dækket  K02f    På reol
+00375X0124  Dug 1940'erne   magasin 1/1/2002                    J03a    22
+00380X0542  Brudekjole  1950'erne   magasin 19/11/2012                  D27f    110
+00380X0543  Slør med diadem 1950'erne   magasin 1/1/1990                    D27f    110
+00380X0544  Brudesko    1950'erne   magasin 1/1/1990                    D27f    110
+00380X0546  Lommetørklæde   1950'erne   magasin 1/1/1990                    D27f    110
+00380X0669  Monogramskabeloner 14 stk.  1900 - 1999 magasin 1/1/1990                Arkivalier  L10-L10 1,  kuv. 3
+00380X0712  Kageske 1900 - 1949 magasin 1/1/1994                    J03a    6
+00380X0717  Strømper, a-b   1900 - 1949 magasin 1/1/1994                    N03i    23-24
+00380X0736  Perlekæde, simili   1900 - 1999 magasin 1/1/1992                    D27f    110
+00411X0001  Brudekjole, lang m/hat, a-b 1970'erne   magasin 1/1/1988                    D27f    102
+00411X0005  Brudesko, a-b   1970'erne   magasin 1/1/1989                    D27f    115a
+00411X0006  Bryllupsfoto, indrammet 1970'erne   magasin 1/1/1995                    D27f    68
+00424X0010  Brudekjole  1920'erne   magasin 1/1/1994                    D27f    34
+00457X0068  Vase    efter 1920  magasin 1/1/1991                    J02v    Reol
+00465X0001  Brudekjole, a-b 1940'erne   magasin 1/1/1997                    D27f    99
+00465X0002  Valk a-b    1940'erne 
+00476X0066  Brudesko, a-b   1920'erne   magasin 6/8/2010                    D27f    2
+00480X0002  Brudekjole m/jakke og handsker, a-d 1950'erne   magasin 1/1/1991                    D27f    23
+00480X0006  Smykkeæske  1950'erne   magasin 1/1/1993                    D27f    23
+00480X0040  Tallerken, dyb-, 7 stk  1930'erne   magasin 1/1/1994                Dækket  J03a    På reol
+00480X0041  Tallerken, flad-, 11 stk.   1930'erne   magasin 1/1/1994                Dækket  J03a    På reol 
+00480X0042  Sidetallerken 8 stk 1930'erne   magasin 1/1/1994                Dækket  J03a    På reol
+00480X0043  Asiet 2 stk 1930'erne   magasin 1/1/1994                Dækket  J03a    På reol
+00480X0044  Pålægsfad   1930'erne   magasin 1/1/1994                Dækket  J03a    På reol
+00480X0045  Sauceskål   1930'erne   magasin 1/1/1994                Dækket  J03a    På reol
+00480X0046  Kartoffelfad    1930'erne   magasin 1/1/1994                Dækket  J03a    På reol 
+00480X0047  Stegefad    1930'erne   magasin 1/1/1994                Dækket  J03a    På reol 
+00480X0048  Fad, stege- 1930'erne   magasin 1/1/1994                Dækket  J03a    På reol 
+00500X0165  Foto        magasin 1/1/1997                    D27f    68
+00500X0177  Tekstplancher       magasin 1/1/1998                    D27f    177
+00500X0283  Genstande fra brudekjoleudst.   1990'erne                               
+00519X0001  Brudekjole med skørt og slør    1960'erne   magasin 19/11/2012                  D27f    84
+00526X0004  Brudeskørt  1920'erne   magasin 1/1/1991                    D27f    4
+00526X0021  Brudekjole, a-b 1900'erne   magasin 1/1/1994                    D27f    19
+00526X0022  Sjal    1900'erne   magasin 1/1/1991                    D27f    64c
+00526X0045  Diplomatfrakke  1900'erne   magasin 1/1/1991                    D27f    64b
+00537X1428  Kort, 2 stk.    efter 1920  magasin 1/1/1991                Arkivalier  D26-D27 5, kuv. 4
+00537X1891  Ske, sølv-  1920'erne   magasin 1/1/2000                    J03a    19
+00538X0009  Brudekjole  1940'erne   magasin 8/9/2010                    D27f    98
+00539X0001  Brudekjole med jakke, a-c   1950'erne   magasin 1/1/1991                    D27f    11
+00540X0004  Brudekjole, a-b 1880'erne   magasin 1/1/1991                    D27f    18
+00544X0001  Lysestage   1960'erne   magasin 1/1/1991                Dækket  J02s    Reol
+00544X0002  Cabaretfad a-e  1960'erne                               
+00544X0078  Brudekjole  1960'erne   magasin 1/1/1998                    D27f    100
+00545X0001  Brudekjole, sort, ubrugt    1910'erne   magasin 1/1/1991                    D27f    45
+00549X0001  Brudekjole  1950'erne   magasin 1/1/1991                    D27f    22
+00550X0165  Brudekjole med diadem   1950'erne   magasin 1/1/1993                    D27f    28
+00550X0166  Brudekjole med slør 1960'erne   magasin 4/5/1993                    D27f    28
+00550X0167  Brudesko, a-b   1950'erne   magasin 1/1/1991                    D27f    75
+00550X0195  Corsage 1950'erne   magasin 1/1/1997                    D27f    28
+00551X0001  Brudekjole med skørt, a-b   1950'erne   magasin 26/5/2011                   D27f    105
+00551X0003  Telegram, 12 stk., a-l  1950'erne   magasin 31/10/2013              Arkivalier  D26-D27 5
+00551X0004  Bryllupssang    1950'erne   magasin 1/1/2009                Arkivalier  C9-C12  1, kuv. 6
+00552X0001  Brudekjole  1950'erne   magasin 1/1/1991                    D27f    21
+00554X0001  Brudekjole med bolero, a-b  1950'erne   magasin 1/1/1991                    D27f    14
+00554X0003  Pumps, a-b  1980'erne   magasin 30/10/2003                  D27f    115a
+00554X0004  Bukser, læder   1980'erne   magasin 30/10/2003                  D27f    94
+00554X0005  T-shirt 1980'erne   magasin 30/10/2003                  D27f    127
+00554X0006  Cardigan    1980'erne   magasin 30/10/2003                  D27f    127
+00555X0001  Brudekjole med slør, a-b    1960'erne   magasin 1/1/1991                    D27f    21
+00556X0001  Brudekjole med slør, a-b    1960'erne   magasin 2/9/2010                    D27f    51
+00557X0001  Brudekjole  1970'erne   magasin 1/1/1990                    D27f    29
+00558X0001  Brudekjole  1960'erne   magasin 1/1/1993                    D27f    15
+00559X0001  Brudekjole, a-b 1950'erne   magasin 5/11/2012                   D27f    38
+00559X0003  Slør, brude-, med diadem    1950'erne   magasin 13/11/2012                  D27f    38
+00560X0001  Brudekjole  1940'erne   magasin 1/1/1992                    D27f    106
+00560X0002  Brudekjole med slør a-b 1960'erne   magasin 1/1/1992                    D27f    106
+00560X0003  Brudekjole med bælte, a-b   1910'erne   magasin 1/1/1991                    D27f    34
+00561X0001  Brudekjole med slæb, a-d    1880'erne   magasin 1/1/1991                    D27f    18
+00563X0001  Brudekjole med tilbehør, a-f    1950'erne   magasin 1/1/1992                    D27f    10
+00563X0045  Menukort    1950'erne   magasin 1/1/2005                    D27f    81
+00564X0001  Brudekjole med tilbehør, a-c    1950'erne   magasin 1/1/1991                    D27f    103
+00565X0001  Brudekjole med slør, a-b    1960'erne   magasin 1/1/1992                    D27f    25
+00566X0001  Brudekjole  1910'erne   magasin 25/8/1997                   D27f    45
+00567X0001  Brudekjole, kortærmet, blomstret    1940'erne   magasin     Brudekjoler, KM             D27f    22
+00567X0002  Skørt   1910'erne   magasin     Brudekjoler, KM             D27f    68
+00567X0003  Brudebillede    1940'erne   magasin 1/1/1991                    D27f    68
+00567X0004  Sange, a-e  1940'erne   magasin 1/1/1991                    D27f    81
+00568X0001  Brudekjole, a-c 1950'erne   magasin 1/1/1991                    D27f    87
+00570X0001  Bryllupskjole med slør, a-b 1960'erne   magasin 20/11/1992                  D27f    104
+00571X0001  Brudekjole med tilbehør, a-e    1960'erne   magasin 1/1/1991                    D27f    35
+00571X0008  Sølvbryllupskjole, a-b  1980'erne   magasin 1/1/2000                    D27f    122
+00571X0010  Håndklæde   1930'erne   magasin 1/1/2000                    D27f    122
+00572X0001  Brudekjole  1940'erne   magasin 1/1/1991                    D27f    24
+00574X0001  Brudekjole, helsilke    efter 1920  magasin     Brudekjoler KM              D27f    23
+00574X0002  Sko, a-b, silke, håndsyede  1920'erne   magasin 1/1/1991    Brudekjoler, KM             D27f    23
+00575X0001  Brudekjole, a-e 1930'erne   magasin 1/1/1991                    D27f    32
+00576X0001  Brudekjole, jakke og bælte, a-c 1972 - 1972 magasin 1/1/1991                    D27f    109
+00577X0001  Brudekjole, lyseblå 1942 - 1942 magasin 1/1/1991                    D27f    27
+00578X0001  Brudekjole, lang, empirestil    1970'erne   magasin 1/1/1991    Brudekjoler             D27f    102
+00578X0002  Brudebillede    1970'erne   magasin     Brudekjoler, KM             D27f    68
+00579X0001  Brudekjole, a-b 1930'erne   magasin 20/7/2000                   D27f    52
+00580X0001  Brudekjole, med jakke a-b   1961 - 1961 magasin 1/1/1991                    D27f    40
+00582X0001  Brudekjole, med stråhat, a-b    1970'erne   magasin 1/1/1991                    D27f    27
+00583X0001  Brudekjole  1929 - 1929 magasin 1/1/1991                    D27f    109
+00583X0002  Brudesko, a-b   1929 - 1929 magasin 1/1/1991                    D27f    109
+00584X0001  Brudekjole  1945 - 1945 magasin 1/1/1991                    D27f    43
+00585X0001  Brudekjole, lang med skørt a-b  1950'erne   magasin 1/1/1991                    D27f    29
+00586X0001  Brudekjole med taske og krave, a-c  1920'erne   magasin 1/1/1991                    D27f    32
+00589X0001  Brudekjole og slør, a-b 1970'erne   magasin 1/1/1991                    D27f    111
+00589X0002  Brudesko, a-b   1970'erne   magasin 1/1/1990                    D27f    117
+00589X0004  Vielsesring 1970'erne   magasin 1/1/1991                    D27f    115
+00599X0001  Brudekjole  1950'erne   magasin 1/1/1991                    D27f    24
+00600X0001  Kjole   1960'erne   magasin 1/1/1991                    D27f    66
+00600X0002  Brudekjole  1960'erne   magasin 1/1/1991                    D27f    113
+00600X0003  Brudekjole  1900'erne   magasin 1/1/1991                    D27f    107
+00600X0004  Brudekjole, med jakke, a-b  1930'erne   magasin 1/1/1991                    D27f    107
+00600X0006  Natkjole    1960'erne   magasin 1/1/1991                    D27f    112
+00601X0001  Brudekjole med kåbe og diadem, a-c  1967 - 1967 magasin 1/1/1994                    D27f    108
+00601X0002  Brudebuket, indrammet   1960'erne   permanent udstilling    22/3/2012   Kvindeliv fra urtid til nutid               J02u    8
+00601X0003  Telegram og lykønskningskort, 23 stk.   1960'erne   magasin 1/1/1991                    D27f    81
+00601X0004  Bryllupssang, 9 stk.    1960'erne   magasin 1/1/1991                    D27f    81
+00601X0005  Kvittering med mere, 10 stk.    1960'erne   magasin 1/1/1991                    D27f    81
+00608X0001  Brudekjole, a-b 1950'erne   magasin 1/1/1993                    D27f    108
+00611X0001  Brudekjole, krave og hat, a-c   1940'erne   magasin 1/1/1991                    D27f    86
+00611X0004  Brudekjole  1970'erne   magasin 1/1/1991                    D27f    10
+00611X0010  Handsker, a-b   1940'erne   magasin 1/1/1991                    D27f    14
+00617X0001  Brudekjole  1940'erne   magasin 1/1/1993                    D27f    49
+00621X0001  Brudekjole med slør, "Lilly", a-b   1960'erne   magasin 1/1/1991                    D27f    50
+00622X0001  Brudekjole med tilbehør, a-e    1960'erne   magasin 1/1/1991                    D27f    26
+00622X0002  Ring, forlovelses-, og bog: "Bryllupsbogen", a-b    1950 - 1970 magasin 1/1/1991                    D27f    70
+00622X0003  Bryllups-, kransekagefigur, menukort og sange, a-f  1960'erne   magasin 24/6/2015           (Menukort)      D27f    81
+00628X0001  Brudekjole/jakke m. div., a-e   1950'erne   magasin 1/1/1991                    D27f    48
+00648X0001  Brudekjole, a-c 1970'erne   magasin 1/1/1992                    D27f    49
+00683X0001  Kjole, langærmet, a-b   1940'erne   magasin 1/1/1991                    N03b    47
+00685X0021  Brudekjole  1920'erne   magasin 1/1/1993                    D27f    34
+00685X0105  Bryllupstøj til gom, a-e    1920'erne   magasin 1/1/1993                    D27f    91
+00702X0001  Brudekjole  1910'erne   magasin 1/1/2009                    D27f    34
+00703X0001  Brudekjole, a-c 1950'erne   magasin 1/1/1991    Brudekjoler, KM             D27f    101
+00703X0002  Billede, bryllups-  1950'erne   magasin     Brudekjoler, KM             D27f    68
+00704X0001  Brudekjole med skørter, a-c efter 1850  magasin     Brudekjoler, KM             D27f    17
+00704X0003  Brudebillede    1920'erne   magasin 1/1/1991    Kvindemuseets Café              D27f    68
+00712X0001  Kjole, bryllups-, med frakke, a-c   1940'erne   magasin 1/1/1992                    D27f    113
+00713X0001  Brudejakke  1950'erne   magasin 1/1/1992                    D27f    9
+00713X0002  Brudekjole  1950'erne   magasin 1/1/1992                    D27f    9
+00718X0001  Brudekjole med frakke, silkeblomste, 2 stk., a-d    1970'erne   magasin 1/1/1992                    D27f    95
+00728X0001  Brudekjole, "Lilly", med diadem, a-b    1960'erne   magasin 1/1/1992                    D27f    79
+00731X0001  Kjole, sølvbryllups-    1960'erne   magasin 1/1/1992                    D27f    1
+00734X0001  Brudekjole  1960 - 1995 magasin 1/1/1992                    D27f    40
+00735X0001  Kjole   1940'erne   magasin 1/1/1992                    D27f    5
+00735X0003  Kjole, guldbryllups-    1950'erne   magasin 1/1/1992                    D27f    5
+00735X0004  Kjole a-c   1930'erne                               
+00753X0001  Brudekjole, a-d 1950'erne   magasin 1/1/1992                    D27f    72
+00754X0001  Brudekjole  1900 - 1950 magasin 1/1/1992                    D27f    6
+00756X0001  Kjole, sølvbryllups-    1950'erne   magasin 1/1/1992                    D27f    5
+00757X0002  Brudekjole med vest, a-c    1970 - 1990 magasin 30/6/1997                   D27f    6
+00763X0001  Brudekjole  1950'erne   magasin 1/1/1993                    D27f    50
+00766X0011  Forlovelseskort 1932 - 1932                             
+00779X0001  Brudekjole, a-c 1940'erne   magasin 1/1/1993                    D27f    8
+00781X0001  Brudekjole, med underkjole, a - b   efter 1920  magasin 1/1/1991                    D27f    38
+00785X0001  Brudekjole  1910'erne   magasin 1/1/1993                    D27f    33
+00791X0002  Brudekjole  1970'erne   magasin 12/4/2011                   D27f    77
+00791X0003  Sko, a-b    1970'erne   magasin 1/1/1993                    D27f    75
+00815X0001  Brudekjole, a-c 1960'erne   magasin 9/6/2001                    D27f    105
+00820X0001  Brudekjole, med slør, a-b   1940'erne   magasin 28/8/2009                   D27f    31
+00820X0008  Brudeslør   1910'erne   magasin 1/1/1993                    D27f    83
+00820X0024  Sko, brude-, a-b    1910'erne   magasin 1/1/2000                    D27f    115a
+00820X0025  Bælte   1910'erne   magasin 1/1/2000                    D27f    122
+00820X0027  Telegram    1910'erne   magasin 1/1/2000                    D27f    81
+00820X0035  Brudeslør, med diadem, a-b  1910'erne   magasin 1/1/2000                    D27f    124
+00820X0036  Æske, a-b   1910'erne   magasin 1/1/2000                Arkivalier  D27f    81
+00820X0037  Hårnål  1910'erne   magasin 1/1/2000                    D27f    124
+00825X0010  Sko 1960'erne   magasin 1/1/1993                    D27f    2
+00831X0001  Brudekjole  1950'erne   magasin 1/1/1993                    D27f    35
+00832X0017  Brudebuket i handskeæske a-b    1910'erne   magasin 1/1/1996                    D27f    115
+00832X0163  Bryllupssang, 2 stk.    1940'erne   magasin 1/1/1998                Arkivalier  D26-D27 5
+00832X0164  Sølvbryllupssang, 6 stk.    efter 1920  magasin 1/1/1998                Arkivalier  D26-D27 5
+00832X0169  Guldbryllupssang, 5 stk.    efter 1920  magasin 1/1/1998                Arkivalier  D26-D27 5
+00832X0236  Kjole   1960'erne   magasin 1/1/2001                    D27f    54
+00832X0249  Brudebuket  1940'erne   magasin 1/1/2002                    D27f    126
+00849X0001  Brudekjole med høj elastikhals  1970'erne   magasin 8/9/2010                    D27f    98
+00849X0002  Brudekjole, kort ærmeløs    1980'erne   magasin 8/9/2010                    D27f    98
+00858X0001  Brudekjole  1950'erne   magasin 1/1/1991                    D27f    47
+00859X0001  Brudekjole  1970'erne   magasin 1/1/1991                    D27f    47
+00863X0001  Brudekjole  1950'erne   magasin 12/8/2000                   D27f    36
+00864X0001  Cykel, dame-,   1949 - 1949 magasin 1/1/2001                    P2-P3   Gavl, pallereol
+00872X0001  Kjole, selskabs-, med bolero, a-c   1940'erne   magasin 1/1/1993                    D27f    53
+00893X0001  Brudekjole, a-h 1990'erne   magasin 2/9/2010                    D27f    37
+00897X0001  Nederdel    1920'erne   magasin 1/1/1992                    D27f    4
+00897X0002  Brudesko, a-b   1900'erne   permanent udstilling    1/1/2000    Kvindeliv fra urtid til nutid           Montre 2        
+00900X0007  Æske    1960'erne   magasin 1/1/1993                    D27f    115
+00923X0001  Natkjole    1930'erne   magasin 1/1/1994                    D27f    78
+00923X0002  Natkjole    1930'erne   magasin 1/1/1994                    D27f    78
+01004X0001  Brudekjole  1961 - 1961 magasin 1/1/1997                    D27f    39
+01048X0002  Brudekjole  1950'erne   magasin 1/1/1995                    D27f    79
+01068X0001  Brudekjole, silke-,     1980'erne   magasin 12/9/2001                   D27f    122
+01096X0009  Regning     magasin 1/1/1996                Arkivalier  D26-D27 90
+01105X0001  Brudekjole  1910'erne   magasin 1/1/1997                    D27f    90
+01109X0006  Brudekjole a-i  1950'erne                               
+01109X0007  Brudesko a-b    1950'erne                               
+01109X0032  Bryllupssange a-d   1950'erne   magasin 1/1/2001                    C09 1, kuv. 4
+01119X0003  Brudekjole/underkjole a-b   1940'erne                               
+01127X0005  Brudekjole a-b  1980'erne   magasin 1/1/1994                    D27f    65
+01131X0001  Brudekjole a-d  1962 - 1962 magasin 8/9/2010                    D27f    16
+01131X0003  Bryllupstelegram    1962 - 1962 magasin 8/9/2010                    D27f    16
+01131X0004  Dragtpose   1960'erne   magasin 1/1/1994                    D27f    96
+01131X0005  Tøjbøjle, 2 stk.    1960'erne   magasin 1/1/1994                    D27f    96
+01131X0006  Æske    1960'erne   magasin 1/1/1994                    D27f    ?
+01152X0081  Bryllupstelegrammer 55 stk. 1940'erne   magasin 1/1/1997                Arkivalier D26-D27      6
+01152X0125  Sang, bryllups-, 2 stk., a-b    1940'erne   magasin 1/1/1998                    D27f    81
+01152X0191  Ægteringe, 2 stk.   1940'erne   magasin 1/1/1994                    D27f    115
+01155X0001  Håndklæder, 6 stk.  1930'erne                               
+01156X0015  Skørt   1948 - 1948 magasin 1/1/1994                    D27f    13
+01158X0137  Brudekjole  1940'erne   magasin 1/1/1994                    D27f    71
+01158X0151  Brudeslør   1940'erne   magasin 1/1/1994                    D27f    8
+01158X0495  Kjole med bælte, a-b    1940'erne   magasin 1/1/1994                    D14f    220
+01158X0519  Sko, a-b    1910'erne   magasin 1/1/1994                    D27f    2
+01158X0564  Sko, a-b    1940'erne   magasin 1/1/1994                    D27f    117
+01158X0576  Sko, a-b    1920'erne   magasin 1/1/1994                    D27f    2
+01158X0719  Hovedtørklæde   1940'erne                               
+01158X0858  Bakke   1940'erne                               
+01158X0860  Randform    1940'erne                               
+01158X0871  Handsker, a-b   1940'erne   magasin 1/1/1994                    D27f    67
+01158X0927  Dug 1940'erne   magasin 1/1/1995                    D27f    115
+01160X0001  Brudekjole  efter 1938  magasin 1/1/1994                    D27f    34
+01160X0002  Broche  1938 - 1938 magasin 1/1/1994                    N05d    2
+01161X0011  Kærestebreve, a-i   1880'erne   magasin 1/1/1995                    D27f    5
+01161X0012  Kærestebreve a-m    1880'erne                               
+01161X0014  Kuvert  1880'erne   magasin 1/1/1995                    D27f    5
+01180X0022  Natkjole    1940'erne   magasin 1/1/1994                    D27f    54
+01192X0001  Kjole   1920'erne   magasin 1/1/1995                    D27f    33
+01204X0001  Natkjole    1910'erne   magasin 1/1/1995                    D27f    112
+01204X0002  Mamelukker  1910'erne   magasin 1/1/1995                    D27f    112
+01204X0003  Underliv    1910'erne   magasin 1/1/1995                    D27f    112
+01229X0001  Brudekjole med hermelinskrave, a-c  1910'erne   magasin 1/1/1995                (Brudekjole & Silkebånd)    D27f    20
+01229X0002  Æske, original-, til brudekjole, a-b    1910'erne   magasin 1/1/1995                    D27f    96
+01234X0001  Brudekjole, a-d 1950'erne   magasin 1/1/1995                    D27f    77
+01236X0001  Brudekjole med frakke, a-b  1960'erne   magasin 1/1/1995                    D27f    75
+01236X0002  Sko med original emballage, a-d 1960'erne   magasin 1/1/1995                    D27f    75
+01236X0003  Brudebuket  1960'erne   magasin 1/1/1995                    D27f    76
+01236X0004  Strømpeholder   1960'erne   magasin 1/1/1995                    D27f    78
+01236X0005  Brystholder 1960'erne   magasin 1/1/1995                    D27f    78
+01236X0006  Trusser 1960'erne   magasin 1/1/1995                    D27f    78
+01236X0007  Underkjole  1960'erne   magasin 1/1/1995                    D27f    78
+01236X0008  Hårtop  1960'erne   magasin 1/1/1995                    D27f    67
+01236X0009  Taske, selskabs-, silke 1960'erne   magasin 1/1/1995                    D27f    67
+01236X0010  Pudderdåse  1960'erne   magasin 1/1/1995                    D27f    67
+01236X0011  Lommetørklæde   1960'erne   magasin 1/1/1995                    D27f    67
+01236X0012  Smykkeæske  1960'erne   magasin 1/1/1995                    D27f    67
+01236X0013  Rispose, 2 stk. 1960'erne   magasin 1/1/1995                    D27f    67
+01236X0014  Tændstikæske, 2 stk., a-b   1960'erne   magasin 1/1/1995                    D27f    67
+01236X0015  Sweater 1960'erne   magasin 1/1/1995                    D27f    78
+01236X0016  Sang, bryllups-, 13 stk., a-m   1960'erne   magasin 1/1/1995                    D27f    6
+01236X0017  Gratulationskort, a-ak  1960'erne   magasin 1/1/1994                    D27f    81
+01236X0018  Telegrammer og liste, a-q   1960'erne   magasin 1/1/1995                    D27f    81
+01236X0019  Indbydelseskort til bryllup, a-b    1960'erne   magasin 1/1/1995                    D27f    81
+01236X0020  Breve, bryllups-, med kuvert, a-k   1960'erne   magasin 1/1/1995                    D27f    81
+01236X0021  Takkekort   1960'erne   magasin 1/1/1995                    D27f    81
+01236X0022  Bordkort, a-b   1960'erne   magasin 1/1/1995                    D27f    81
+01236X0023  Gaveliste, bryllups-, a-d   1960'erne   magasin 1/1/1995                    D27f    81
+01236X0024  Takkekort og adresseliste   1960'erne   magasin 1/1/1995                    D27f    81
+01236X0084  Bryllupsbog, a-b    1960'erne   magasin 1/1/1995                Arkivalier  D26-d27 5, kuv. 2
+01236X0087  Kvittering, bryllups-, 6 stk.   1968 - 1968 magasin 30/9/2015               Arkivalier  D26-D27 5, kuv. 4
+01237X0001  Brudekjole, 'Margit Brandt' 1971 - 1974 magasin 1/1/1995                    N03b    243
+01242X0001  Brudekjole, a-c 1960'erne   magasin 1/1/1995                    D27f    14
+01243X0015  Sølvbryllupssang, 4 stk.    1930'erne   magasin 1/1/1996                    D27f    81
+01243X0023  Sølvbryllupssang    1960'erne   magasin 1/1/2001                    C09 1, kuv. 4
+01243X0028  Bryllupssang    1940'erne   magasin 1/1/2000                    C09 1, kuv. 4
+01244X0001  Brudekjole, a-c 1940'erne   magasin 1/1/1994                    D27f    58
+01246X0005  Brude/"konfirmations"kjole, a-b 1960'erne   magasin 1/1/1996                    D27f    44
+01246X0022  Brudekjole, a-c 1980'erne   magasin 1/1/1998                    D27f    58
+01246X0023  Brudekjole, a-b 1930'erne   magasin 1/1/1998                    D27f    74
+01246X0024  Handsker, a-b   1960'erne   magasin 1/1/1999                    D27f    67
+01246X0025  Brudeslør   1960'erne   magasin 1/1/1999                    D27f    93
+01246X0026  Sko, a-d    1960'erne   magasin 1/1/1999                    D27f    117
+01246X0027  Brudebuket  1960'erne   magasin 1/1/1999                    D27f    114
+01246X0080  Sauceskål   1900'erne   magasin 1/1/2008                    J03a    reol
+01246X0081  Kartoffelfad    1900'erne   magasin 1/1/2008                    J03a    reol
+01251X0033  Brudekjole  1910'erne   magasin 1/1/2001                    D27f    55
+01253X0001  Taske, selskabs-    1860'erne   magasin 1/1/1996                    D27f    75
+01259X0003  Brudekjole  1930'erne   magasin 1/1/1996                    D27f    97
+01259X0004  Brudekjole, a-b 1960'erne   magasin 1/1/1996                    D27f    59
+01265X0007  Selskabskjole, a-b  1950'erne   magasin 1/1/1996                    D27f    92
+01265X0008  Sko 1950'erne   magasin 1/1/1996                    D27f    75
+01265X0009  Dåbskjole med skærf, ærmeløs, a-b   1950'erne   magasin 1/1/1996                    D27a    6
+01265X0010  Brudeslør   1950'erne   magasin 1/1/1996                    D27f    93
+01265X0011  Underskørt  1950'erne   magasin 1/1/1996                    D27f    112
+01265X0047  Pudebetræk, 2 stk.  1950'erne   magasin 1/1/1996                    J02d    15
+01269X0001  Brudekjole m. slør a-f  1930'erne   magasin 1/1/1997                    D27f    15
+01269X0004  Brudebillede    1934 - 1934                             
+01269X0005  Sølvbryllupsbuket a-c   1950'erne   magasin 1/1/1997                    D27f    67
+01269X0006  Guldbryllupsbuket   1980'erne   magasin 1/1/1997                    D27f    67
+01295X0018  Lagen   1940'erne   magasin 1/1/2001                    J02d    33
+01308X0006  Sko med æske, a-d   1940'erne   magasin 1/1/1996                    D27f    75
+01310X0007  Brudekjole  1920'erne   magasin 12/9/1998                   D27f    15
+01313X0001  Brudekjole, a-b 1950'erne   magasin 1/1/1998                    D27f    80
+01316X0007  Sølvbryllupskjole   1940'erne   magasin 1/1/1996                    D27f    92
+01318X0015  Toupe   1960'erne   magasin 1/1/2005                    M   6
+01320X0001  Brudekjole  1930'erne   magasin 1/1/1996                    D27f    15
+01321X0001  Brudekjole  1988 - 1988 magasin 1/1/1997                    D27f    95
+01325X0006  Kjole, sølvbryllups-    1960'erne   magasin 1/1/1996                    D27f    100
+01328X0001  Brudekjole, a-b 1950'erne   magasin 1/1/1997                    D27f    90
+01342X0001  Brudekjole med slør, a-b    1960'erne   magasin 5/6/1977                    D27f    69
+01350X0059  Bog, "Hvorledes bliver man omsværmet"   1920'erne   magasin 1/1/1999    Barndommens Museum 2006         Arkivalier  A-B03   1
+01350X0062  Bog, 'Ægteskabelig Lykke'   1920'erne   magasin 1/1/1996                Arkivalier  D26-D27 6
+01350X0240  Kjole   1960'erne   magasin 1/1/2001                    N03b    412
+01351X0002  Kjole, -selskabs    1970'erne   magasin 1/1/2008                    N03b    306
+01352X0001  Brudekjole, a-d 1965 - 1965 magasin 1/1/1997                    D27f    7
+01352X0002  Sko, a-b    1965 - 1965 magasin 1/1/1997                    D27f    7
+01352X0003  Brude/knæletæppe    1965 - 1965 magasin 1/1/1997                    D27f    85
+01353X0001  Brudekjole med tilbehør, a-f    1990'erne   magasin 1/1/1997                    D27f    13
+01355X0001  Dåbskjole, underkjole og bånd, a-c  1950'erne   magasin 1/1/1997                    D27b    1
+01355X0002  Brudekjole, a-b 1950'erne   magasin 1/1/1997                    D27f    14
+01357X0063  Brudeslør   1940'erne   andet   1/1/1997                    D27f    64a
+01388X0001  Brudeslør   1940'erne   andet   1/1/1997                    D27f    97
+01395X0001  Brudekjole, a-d 1960'erne                               
+01395X0003  Sølvbryllupskjole, a-d  1950'erne   magasin 1/1/1997                    D27f    54
+01404X0015  Brudekjole  1960'erne   magasin 1/1/1997                    D27f    42
+01410X0001  Brudekjole, a-f 1910'erne   magasin 1/1/1997                    D27f    55
+01410X0002  Bryllupssang, 2 stk.    1910'erne                               
+01413X0006  Karnevalskjole  1950'erne   magasin 1/1/1997                    D26g    2
+01413X0007  Brudekrone  1950'erne   magasin 1/1/1997                    D27f    67
+01413X0008  Brudeslør   1950'erne   magasin 1/1/1997                    D27f    124
+01413X0009  Bordkort    1950'erne   magasin 1/1/1997                    D27f    67
+01413X0010  Bånd fra brudebuket 1950'erne   magasin 1/1/1997                    D27f    67
+01424X0001  Brudekjole med tilbehør, a-b    1870'erne   magasin 1/1/1997                    D27f    34
+01426X0006  Særk, kortærmet, 2 stk. 1900'erne                               
+01426X0007  Lagen, 2 stk.   1900'erne   magasin 1/1/1997                    J02d    28
+01426X0018  Pudebetræk, 2 stk.  1900'erne   magasin 1/1/1997                    J02d    24
+01427X0001  Brudekjole med bolero, a-b  1900'erne   magasin 1/1/1997                    D27f    56
+01428X0002  Brudekjole  1970'erne   magasin 1/1/1997                    D27f    61
+01429X0011  Brudekjole  1930'erne   magasin 1/1/1997                    D27f    53
+01447X0001  Brudekjole, bolero, diadem, bånd, sløjfer og sangskjuler, a-f   1960'erne   magasin 1/1/1998                    D27f    120
+01447X0005  Skørt   1960'erne   magasin 1/1/1998                    D27f    85
+01447X0006  Sko, a-b    1960'erne   magasin 1/1/1998                    D27f    117
+01447X0007  Kjole, sølvbryllups-    1980'erne   magasin 1/1/2005                    D27f    144
+01447X0008  Sko, sølvbryllups-, a-b 1960'erne   magasin 1/1/2005                    D27f    117
+01456X0005  Kjole   1970'erne                               
+01461X0063  Telegrammappe   1920'erne   magasin 1/1/1998                    D27f    81a
+01462X0001  Brudekjole, a-c 1950'erne   magasin 2/9/2010                    D27f    60
+01463X0001  Brudekjole, a-c 1940'erne   magasin 1/1/1998                    D27f    46
+01464X0001  Brudekjole, a-b 1950'erne   magasin 1/1/1998                    D27f    118
+01464X0002  Sølvbryllupskjole   1970'erne   magasin 12/4/2011                   D27f    61
+01465X0001  Brudekjole, "Lilly" med diadem, a-b 1960'erne   magasin 1/1/1998                    D27f    57
+01467X0001  Brudekjole, a-c 1970'erne   magasin 1/1/1998                    D27f    123
+01516X0001  Brudesko, a-b   1920'erne   magasin 1/1/1998                    D27f    115a
+01523X0001  Brudekjole, a-d 1940'erne   magasin 1/1/1998                    D27f    74
+01524X0010  Skørt   1900'erne   magasin 1/1/1998                    D27f    112
+01530X0011  Kobberbryllupssang  1940'erne   magasin 1/1/1998                    D27f    81
+01530X0012  Brudekjole  1930'erne   magasin 1/1/1998                    D27f    56
+01530X0013  Sølvbryllupskjole   1950'erne   magasin 1/1/1998                    D27f    54
+01562X0001  Brudekjole, a-f 1980'erne   magasin 12/4/2011                   D27f    35
+01563X0001  Brudekjole, a-b 1920'erne   magasin 1/1/1998                    D27f    56
+01567X0026  Guldur i æske, a-b  1930'erne   magasin 1/1/2008                    D25b    4
+01569X0009  Mønster til brudekjole, a-c 1940 - 1940 magasin 1/1/1999                Arkivalier  D26-D27 6, kuv. 5 
+01575X0001  Brudekjole med slør, a-c    1940'erne   magasin 1/1/1999                    D27f    121
+01575X0002  Brudebillede    1940'erne   magasin 1/1/1999                    D27f    68
+01595X0001  Brudekjole, a-c 1980'erne   magasin 3/8/2010                    D27f    132
+01595X0002  Brudekjole, sort med blomster   1990'erne   magasin 3/8/2010                    D27f    135
+01604X0002  Brudekjole  1940'erne   magasin 1/1/1999                    D27f    118
+01605X0001  Kjole, sort silke   1870'erne   magasin 1/1/1999                    N03b    70
+01608X0001  Brudekjole, a-b 1980'erne   magasin 1/1/1999                    D27f    119
+01618X0018  Kontrakt, kopi, "Det gensidige Forsikringsskelskab "Haand i Haand"  1900'erne   magasin 1/1/1999                Arkivalier  D19-D20 1, kuv. 3
+01633X0009  Brudekjole, a-d efter 1910  magasin 1/1/2001                    D27f    118
+01635X0001  Handsker, a-b   1940'erne   magasin 1/1/2000                    D27f    123
+01636X0001  Sko, brude-, a-b    1960'erne   magasin 1/1/2001                    D27f    117
+01636X0003  Ørering, clips, 2 stk., a-b 1960'erne   magasin 1/1/2001                    D27f    117
+01637X0001  Brudekjole med slør, a-b    1960 - 1960 magasin 1/1/2006                    D27f    129
+01638X0001  Hårtørrer a-e   1970'erne   magasin 1/1/2000                    M   18
+01638X0002  Brugsanvisning til hårtørre 1970'erne   magasin 1/1/2003                Arkivalier  D22-D25 1, kuv. 1
+01641X0001  Brudekjole  1930'erne   magasin 1/1/2001                    D27f    125
+01641X0012  Brev, bryllupshilsen    1930'erne   magasin 1/1/2001                    D27f    5
+01669X0003  Pudebetræk, bomulds-    1960'erne   magasin 1/1/2001                    J02d    36
+01672X0001  Brudekjole, a-b 1930'erne   magasin 1/1/2001                    D27f    121
+01672X0002  Underkjole  1930'erne   magasin 1/1/2001                    D27f    121
+01682X0002  Underkjole  1928 - 1953 magasin 1/1/2001                    D27e    21
+01691X0004  Brudekjole med underskørt og slørrest, a-c  1977 - 1977 magasin 23/9/2014                   D27f    152
+01698X0001  Brudekjole med slør, a-b    1947 - 1947 magasin 1/1/2010                    D27f    136
+01699X0006  Diadem  1940'erne   magasin 1/1/2002                    D27f    126a
+01704X0008  Overlagen, 2 stk.   1880 - 1930 magasin 1/1/2002                    J02d    2
+01704X0009  Pudebetræk, 2 stk.  1880 - 1930 magasin 1/1/2002                    J02d    24
+01731X0001  Liv, blomstermønster, gåsebryst 1890'erne   magasin 1/1/2001                    D27f    56
+01731X0002  Kjole, sort bomuld m/skinkeærmer    1920'erne   magasin 1/1/2001                    D27f    33
+01733X0143  Medaljon    1900'erne   magasin 1/1/2009                    N05f    2
+01743X0001  Brudekjole, sort taft   1930'erne   magasin 1/1/2002                    D27f    92
+01771X0001  Sølvbryllupsbog, personlige beretninger, 1901-1924,     1920'erne   magasin 1/1/2004                Arkivalier  D26-D27 6
+01779X0001  Brudekjole med slør, a-c    1940'erne   magasin 13/10/2003                  D27f    132
+01779X0002  Handsker, skind-, a-b   1940'erne   magasin 13/10/2003                  D27f    2a
+01779X0003  Tilbehør til brudekjole, a-c    1940'erne   magasin 13/10/2003                  D27f    132
+01787X0001  Pung med 34 mønter, a-b efter 1850  magasin 1/1/2004                    G02 1
+01788X0001  Brudekjole med slør, a-b    1950'erne   magasin 9/1/2004                    D27f    133
+01788X0002  Uldnederdel med silketalje  1900'erne   magasin 1/1/2005                    D27f    131
+01788X0003  Natkjole, håndbroderet  1910'erne   magasin 1/1/2005                    D27f    41
+01788X0021  Kjole, -selskabs    1940'erne   magasin 1/1/2006                    N03b    114
+01803X0001  Brudekjole, mørkegrøn, a-b  1930'erne   magasin 1/1/2004                    D27f    128
+01814X0001  Brudekjole med slør og bånd til brudebuket, a-e 1929 - 1929 magasin 23/9/2014                   D27f    137
+01814X0002  Butterfly/sløjfe    1929 - 1929 magasin 23/9/2014                   D27f    91
+01821X0001  Kjole, sort - brugt som brudekjole, a-d 1950'erne   magasin 1/1/2005                    D27f    128
+01825X0001  Brudekjole med jakke og slør, a-c   1991 - 1991 magasin 9/5/2014                    D27f    139
+01849X0002  Brudekjole, sort    1930'erne   magasin 1/1/2005                    D27f    148
+01849X0004  Broche  1930'erne   magasin 1/1/2005                    D27f    148
+01852X0001  Brudekjole  1990'erne   magasin 1/1/2005                    D27f    140
+01945X0005  Armbåndsur, guld    1936 - 1936 magasin 19/4/2012                   D25b    1
+01959X0001  Brudekjole, 'Margit Brandt' 1960'erne   magasin 1/1/2002                    D27f    42
+02010X0001  Kaffemaskine, 'Melitta', a-g    1974 - 2005 magasin 1/1/2006                Dækket  J03b    På reol
+02015X0001  Brudekjole, todelt, a-b 1902 - 1902 magasin 1/1/2006                    D27f    131
+02027X0001  Kaffekande, a-b 1960'erne   magasin 1/1/1991                    J03b    
+02027X0002  Askebæger   1960'erne   magasin 1/1/1991                    D27f    114
+02027X0003  Vase    1960'erne   magasin 1/1/1991                    D27f    114
+02027X0004  Vase    1960'erne   magasin 1/1/1991                Dækket  J02v    På reol
+02051X0005  Nederdel    1900'erne   magasin 1/1/2008                    D27f    145
+02072X0002  Kjole med bindebånd, a-b    1940'erne   magasin 1/1/2008                    N03b    431
+02072X0005  Brudekjole  1920'erne   magasin 1/1/2008                    D27f    147
+02084X0001  Brudekjole, hæklet, lang    1971 - 1971 magasin 1/1/2008                    D27f    146
+02088X0001  Selskabskjole, todelt   1980'erne   magasin 1/1/2009                    D27f    144
+02092X0016  Brudekjole  1970'erne   magasin 1/1/2009                    D27f    143
+02097X0001  Brudekjole med slør, a-c    1940'erne   magasin 1/1/2009                    D27f    133
+02097X0002  Kjole, brudepige-, bindebånd og underkjole, a-c 1940'erne   magasin 1/1/2009                    N04b    39
+02097X0003  Vielsesringe, a-b   1940'erne   magasin 1/1/2009                    N05g    2
+02098X0001  Brudekjole, silke-,     1916 - 1916 magasin 9/5/2014                    D27f    138
+02102X0001  Sølvbryllupskjole   1960'erne   magasin 1/1/2009                    D27f    90
+02107X0007  Kjole, sølvbryllups-    1970'erne   magasin 10/7/2014                   N03b    452
+02107X0008  Taske, selskabs-, strukturvævet med sølvtråd    1970'erne   magasin 1/1/2010                    D27f    67
+02113X0001  Sølvbryllupskjole, a-b  1946 - 1946 magasin 19/9/2014                   D27f    3
+02116X0002  Bog, "5 læger om ægteskabets problemer" 1940'erne   magasin 1/1/2010                Arkivalier  D26-D27 6
+02128X0002  Hyldestsang og bryllupssange, 5 stk., a-e   1890'erne   magasin 14/8/2014               Arkivalier  KM-nummer   2128
+02130X0001  Brudekjole med slør/diadem, a-b 1940'erne   magasin 1/1/2009                    D27f    42
+02130X0002  Kjole, sølvbryllups-    1960'erne   magasin 1/1/2009                    D27f    130
+02153X0001  Brudekjole med underkjole og slør, a-c  1940'erne   magasin 1/1/2010                    D27f    150
+02154X0001  Brudekjole, underskørt, slør og strømper, a-e   2000'erne   magasin 1/1/2010                    D27f    134
+02154X0002  Sko, guld, a-b  2000'erne   magasin 1/1/2010                    D27f    2
+02161X0001  Strømper, silke-, a-b   1940'erne   magasin 1/1/2010                    N03i    23-24
+02179X0002  Brudekjole  2005 - 2005 magasin 9/5/2014                    D27f    138
+02181X0001  Kjole, brude-, grå med bælte, a-b   1942 - 1942 magasin 7/11/2012                   D27f    53
+02182X0002  Hat, blonde-, brude-    1931 - 1931 magasin 7/11/2012                   D27f    149
+02184X0002  Bryllupssang    1942 - 1942 magasin 26/6/2012               Arkivalier  D26-D27 5, kuv. 6
+02189X0002  Avisside "Kvinden og Tiden", 52. Årgang, Aarhus Stiftstidende.  1920'erne   magasin 15/8/2014               Arkivalier  D17-D18 1, kuv. 2
+02196X0045  Lydbånd - interviews med kursister  2000 - 2000 andet   11/8/2015       Kvindemuseet    Registreringen  Fotorum     KM2196 - midlertidig opbevaring af elektroniske medier
+02202X0001  Brudekjole, todelt, med sjal og taske, sort a-d 1901 - 1954 magasin 3/5/2012                    D27f    137
+02218X0002  Brudesko med hælflækker i æske, 2 stk.,  a-c    1988 - 1988 magasin 12/9/2014                   D27f    115a
+02218X0003  Vielsesring 1988 - 1988 magasin 1/10/2013               Arkivalier  D27f    5
+02218X0005  Visitkort, bryllupsforretning   2010'erne   magasin 29/8/2013                   O15 1
+02221X0001  Brude/knæletæppe    1950'erne   magasin 11/7/2014                   D27f    Ovenpå rullereol
+02223X0001  Brudekjole, mørkeblå    1909 - 1909 magasin 14/8/2014                   D27f    73
+02223X0002  Brudekjole, sort    1939 - 1939 magasin 14/8/2014                   D27f    88
+02223X0003  Brudekjole, lårkort, med slør, a-b  1970 - 1970 magasin 14/8/2014                   D27f    120
+02245X0001  Samling af 1-ører til brudesko  1940 - 1971 magasin 7/7/2015                    D27f    142
